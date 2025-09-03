@@ -26,6 +26,12 @@ Me motiva aprender tecnologías emergentes y trabajar en equipos colaborativos q
 🔹 [**Brujula Solar WebApp**](https://github.com/Errickjuo22/Brujula_Solar)  
 Aplicación ASP.NET + SQL Server que consulta una API pública y almacena historial de datos solares.  
 
+🔹[ArticlesApp](https://github.com/Errickjuo22/ArticlesApp)
+Aplicación móvil para gestionar artículos con múltiples imágenes. Desarrollada con Jetpack Compose y Kotlin.
+
+🔹 [laravel-articles-api](https://github.com/Errickjuo22/laravel-articles-api)
+API RESTful para la gestión de artículos y usuarios, construida con Laravel.
+
 🔹 **Upp App – Android + Laravel API**  
 App móvil en Kotlin con Jetpack Compose conectada a un backend en Laravel vía API RESTful.  
 
